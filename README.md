@@ -16,7 +16,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a Data Scientists <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I am engaged in data research and the creation of ML algorithms and the design of neural networks.
 
