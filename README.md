@@ -45,8 +45,3 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![AirFlow](https://img.shields.io/badge/Airflow-0172B2?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Time4045&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Time4045&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Time4045&theme=algolia&utcOffset=8)
